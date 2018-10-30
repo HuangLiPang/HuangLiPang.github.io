@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Li-Pang Huang</title>
-    <link>/</link>
+    <link>https://huanglipang.ml/</link>
     <description>Recent content on Li-Pang Huang</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 29 Oct 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://huanglipang.ml/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>About</title>
-      <link>/about/</link>
+      <link>https://huanglipang.ml/about/</link>
       <pubDate>Mon, 29 Oct 2018 00:00:00 +0000</pubDate>
       
-      <guid>/about/</guid>
+      <guid>https://huanglipang.ml/about/</guid>
       <description>Hello, my name is Li-Pang Huang. I&amp;rsquo;m a Research Assistant at Institute of Information Science, Academia Sinica. I&amp;rsquo;m currently working on Data Visualization, Backend Distributed System, and AirBox Deployment in AirBox Project. You can check PM2.5 quality in Taiwan on IDW Map.</description>
     </item>
     
     <item>
       <title>Projects</title>
-      <link>/projects/</link>
+      <link>https://huanglipang.ml/projects/</link>
       <pubDate>Mon, 29 Oct 2018 00:00:00 +0000</pubDate>
       
-      <guid>/projects/</guid>
+      <guid>https://huanglipang.ml/projects/</guid>
       <description> AirBox Project  PM2.5 Open Data Portal IDW Map Voronoi Map AirBox status  Route Reference  Route Reference Fleet Echo  Others  GitHub Link  </description>
     </item>
     
